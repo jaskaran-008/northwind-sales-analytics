@@ -6,6 +6,8 @@ A 5-page Power BI report built from 16,282 orders ($448.47M revenue, Jul 2012 â€
 
 > Shared as a PDF and screenshots because Power BI's "Publish to web" needs Power BI Service.
 
+## Dataset : Sample Northwind Kaggle Dataset
+
 ## Report pages
 
 ### 1. Revenue and Sales Performance
